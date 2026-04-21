@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "NHP patch-seq",
     "DatasetType": "raw",
-    "Authors": null,
+    "Authors": [
+        "Dong, Qiping"
+    ],
     "License": "CC0-1.0",
     "GeneratedBy": [
         {
